@@ -37,7 +37,7 @@
 
 #### 🔧 Tools & Engineering
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,arduino,rabbitmq,pycharm" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,arduino,rabbitmq,pycharm,gitlab" />
 </p>
 
 - 🛠️ **DevOps & Tools:** Excel
