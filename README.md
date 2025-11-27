@@ -30,24 +30,6 @@
 #### 📊 Data & AI
 <p>
   <img src="https://skillicons.dev/icons?i=pandas,sklearn,pytorch,tensorflow,matlab" />
-  <!-- Note: PowerBI and Streamlit might not be available in skillicons, keeping shields for them or checking availability. 
-       Actually, I will keep the shields for the ones I am not sure about to avoid broken images, or try to find them. 
-       Let's stick to the ones I know or can guess safely. 
-       User has: Pandas, Scikit-learn, Power BI, Streamlit. 
-       I will use shields for PowerBI and Streamlit if I can't find them, but mixing looks bad.
-       I'll try to use a combined approach or just list them.
-       Let's try to use the ones that are likely to exist.
-       If I use the user's example, they have `matlab`.
-       I'll add `matlab` if applicable (User didn't list it but it's in the example).
-       User listed: Python, SQL, ML, Power BI, Streamlit.
-       I'll put `python,r,postgres,c,cpp,cs,js,html,css` in the first block.
-       I'll put `pandas,sklearn` in the second block.
-       I'll put `docker,linux,git,arduino,rabbitmq` in the third block.
-       For PowerBI and Streamlit, I will leave them as shields below the icons for now, or remove them if they clutter.
-       Better: I will try `powerbi` and `streamlit` in the url. If they don't render, I'll fix it later.
-       Actually, `idea` (IntelliJ) or `vscode`? User uses PyCharm. `pycharm` exists.
-  -->
-  <img src="https://skillicons.dev/icons?i=pandas,sklearn" />
   <br>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -69,7 +51,7 @@
 ### 💼 Experience
 
 - 🛰️ **R&D Researcher @ Universidad de Oviedo** (Dec 2025 - Present)  
-  *Communications in infrastructure-less zones (Lunar surface, caves), UWB tracking firmware.*
+  *Communications in infrastructure-less zones (Lunar surface, caves) with the **European Space Agency (ESA)**. UWB tracking firmware.*
 
 - 🏢 **Supply Chain & Operation Analytics @ Accenture** (Nov 2024 - Jun 2025)  
   *Data Science, Gen AI, Web Development, Supply Chain Optimization.*
