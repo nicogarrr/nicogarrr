@@ -24,7 +24,7 @@
 
 #### 💻 Languages & Core
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,c,cpp,cs,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,c,cpp,cs,js,html,css,react,tailwind,fastapi" />
 </p>
 
 #### 📊 Data & AI
@@ -33,6 +33,10 @@
   <br>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/XGBoost-15B5B0?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
 #### 🔧 Tools & Engineering
