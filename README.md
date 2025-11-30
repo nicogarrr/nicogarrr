@@ -87,9 +87,9 @@
 
 ---
 
-#### [🏥 Hackathon Salud](https://github.com/nicogarrr/hackathon_salud/tree/nico)
-> Innovative technological solution for the health sector.  
-> 💊 Python · HealthTech · Data
+#### [🏥 NephroMind AI Detection](https://github.com/nicogarrr/nephromind-ai-detection)
+> AI-powered Early Chronic Kidney Disease Detection System. Built with FastAPI, React, and Gemini AI. 🏆 Boehringer Ingelheim Hackathon 2025 Submission.  
+> 💊 Python · FastAPI · React · TailwindCSS · Gemini AI · XGBoost · SHAP · Scikit-learn · Docker
 
 ---
 
