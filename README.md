@@ -85,7 +85,7 @@
 
 ---
 
-#### [📈 CavaAI](https://github.com/nicogarrr/CavaAI)
+#### [📈 GerarAI](https://github.com/nicogarrr/CavaAI)
 > AI platform for investment analysis and financial market prediction.  
 > 🤖 Python · AI/ML · Finance
 
