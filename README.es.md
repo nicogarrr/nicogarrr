@@ -19,7 +19,7 @@
 - 🤖 **Ingeniero de IA en Accenture**: construyo y despliego flujos multiagente con LLM para clientes (LangChain, LangGraph, LangSmith, observabilidad y evaluación), incluido ticketing de averías de maquinaria asistido por IA.
 - 🎓 **Máster en Ingeniería Informática** en la EPI Gijón, Universidad de Oviedo (2025 - 2026). TFM: posicionamiento en interiores fusionando UWB y WiFi CSI.
 - 📊 **Grado en Ciencia e Ingeniería de Datos** en la Universidad de Oviedo (2021 - 2025). TFG: plataforma de localización UWB en interiores con ESP32 + DW3000.
-- 🛰️ **I+D en la Universidad de Oviedo**: comunicaciones en zonas sin infraestructura (superficie lunar, cuevas) en contexto ESA; firmware UWB.
+- 🛰️ **I+D en la Universidad de Oviedo** (2025 - 2026): comunicaciones en zonas sin infraestructura (superficie lunar, cuevas) en contexto ESA; firmware UWB.
 - ⚽ Fuera del teclado: fútbol sala y lectura.
 
 ---
@@ -85,7 +85,7 @@ Más en la [pestaña de repositorios](https://github.com/nicogarrr?tab=repositor
 ### 💼 Experiencia
 
 - 🤖 **Ingeniero de IA · Accenture** (nov 2024 - actualidad): flujos multiagente con LLM en producción para clientes; observabilidad y evaluación de agentes; ticketing de averías de maquinaria asistido por IA.
-- 🛰️ **Investigador I+D · Universidad de Oviedo** (dic 2025 - actualidad): comunicaciones en zonas sin infraestructura (superficie lunar, cuevas) en contexto de la Agencia Espacial Europea; firmware de localización UWB.
+- 🛰️ **Investigador I+D · Universidad de Oviedo** (2025 - 2026): comunicaciones en zonas sin infraestructura (superficie lunar, cuevas) en contexto de la Agencia Espacial Europea; firmware de localización UWB.
 - ⚡ **Estudiante en prácticas · EDP España** (oct 2024 - nov 2024): gestión de datos. Beca Martín González del Valle.
 - 📊 **Data Scientist Intern · Merkle** (jul 2023 - ago 2023): ingeniería de datos y analítica de estrategia de marketing.
 - 💻 **Student Intern · Merkle** (jul 2022 - ago 2022): ingeniería de datos.
