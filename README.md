@@ -16,7 +16,7 @@
 
 ### 👤 About me
 
-- 🤖 **AI Engineer @ Accenture**: I build and deploy multi-agent LLM workflows for clients (LangChain, LangGraph, LangSmith, observability and evaluation), including AI-assisted machine-fault ticketing.
+- 🤖 **AI Engineer** (Nov 2024 - present): I build and deploy multi-agent LLM workflows for clients (LangChain, LangGraph, LangSmith, observability and evaluation), including AI-assisted machine-fault ticketing.
 - 🎓 **M.Sc. in Computer Engineering** @ EPI Gijón, University of Oviedo (2025 - 2026). Master's thesis: indoor positioning fusing UWB and WiFi CSI.
 - 📊 **B.Sc. in Data Science & Engineering** @ University of Oviedo (2021 - 2025). Thesis: UWB indoor tracking platform on ESP32 + DW3000.
 - 🛰️ **R&D @ University of Oviedo** (2025 - 2026): communications in infrastructure-less zones (lunar surface, caves) in an ESA context; UWB firmware.
@@ -85,7 +85,7 @@ More in the [repositories tab](https://github.com/nicogarrr?tab=repositories).
 
 ### 💼 Experience
 
-- 🤖 **AI Engineer · Accenture** (Nov 2024 - present): multi-agent LLM workflows in production for clients; agent observability and evaluation; AI-assisted machine-fault ticketing.
+- 🤖 **AI Engineer** (Nov 2024 - present): multi-agent LLM workflows in production for clients; agent observability and evaluation; AI-assisted machine-fault ticketing.
 - 🛰️ **R&D Researcher · University of Oviedo** (2025 - 2026): communications in infrastructure-less zones (lunar surface, caves) with the European Space Agency context; UWB tracking firmware.
 - ⚡ **Student Employee · EDP España** (Oct 2024 - Nov 2024): data management. Beca Martín González del Valle.
 - 📊 **Data Scientist Intern · Merkle** (Jul 2023 - Aug 2023): data engineering and marketing strategy analytics.
