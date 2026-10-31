@@ -54,7 +54,7 @@ Más en la [pestaña de repositorios](https://github.com/nicogarrr?tab=repositor
 
 **Lenguajes e ingeniería**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,rust,cpp,c,js,nodejs,react,nextjs,fastapi,tailwind,postgres,redis,docker,git,linux,githubactions" />
+  <img src="https://skillicons.dev/icons?i=python,ts,rust,cpp,c,csharp,dotnet,js,nodejs,react,nextjs,fastapi,flask,tailwind,postgres,redis,sqlite,sqlalchemy,docker,git,gitlab,githubactions,linux,playwright" />
 </p>
 
 **Datos y ML**
@@ -66,6 +66,9 @@ Más en la [pestaña de repositorios](https://github.com/nicogarrr?tab=repositor
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_%2F_PL%2FSQL-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge"/>
 </p>
 
 **Empotrados y posicionamiento**
