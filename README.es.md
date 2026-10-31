@@ -104,8 +104,11 @@ Más en la [pestaña de repositorios](https://github.com/nicogarrr?tab=repositor
 ---
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nicogarrr&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2" alt="Estadísticas de GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicogarrr&layout=compact&hide_border=true&title_color=0A66C2" alt="Lenguajes principales" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicogarrr&theme=default" alt="GitHub profile summary" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicogarrr&theme=default" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicogarrr&theme=default" alt="GitHub stats" />
 </p>
 
 <p align="center">
