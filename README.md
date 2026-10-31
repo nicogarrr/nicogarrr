@@ -28,13 +28,11 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| 📈 [**GerarAI**](https://github.com/nicogarrr/GerarAI) · [live app](https://gerarai.vercel.app) | Investment research OS: deterministic valuation engines with a calculation trace, versioned theses with audit, RAG knowledge library and strict source discipline (official / inferred / no data). ~4,700 tests with full CI. | Python 3.12 · FastAPI · Next.js 16 · Postgres · Redis |
+| 📈 [**GerarAI**](https://github.com/nicogarrr/GerarAI) ([live app](https://gerarai.duckdns.org)) | Investment research OS: deterministic valuation engines with a calculation trace, versioned theses with audit, RAG knowledge library and strict source discipline (official / inferred / no data). 9,000+ tests with full CI. | Python 3.12 · FastAPI · Next.js 16 · Postgres · Redis |
 | 🧠 [**Asistenta**](https://github.com/nicogarrr/asistenta) | Always-on personal AI agent on Telegram: multi-day goals with human approval, persistent memory, computer use, voice, OCR, local web panel, TV and iPhone control. Runs on your own PC; free except the LLM key. | TypeScript · Node 24 · SQLite |
 | 📍 **Lazarillo** (master's thesis, private repo) | Indoor positioning fusing UWB ranging with WiFi CSI sensing: smart-home room zones (Home Assistant), elderly-care fall detection and indoor sports tracking, one ESP32 setup for all three. | ESP32 · DW3000 · C++ · Rust · MQTT |
 | 🛰️ [**UWB Indoor Localization (B.Sc. thesis)**](https://github.com/nicogarrr/TFG_UWB_Localization) | Real-time, cm-level indoor positioning with ESP32 anchors and tags over MQTT, built for futsal and other GPS-denied spaces. | C++ · ESP32 · MQTT |
-| 🏥 [**NephroMind AI**](https://github.com/nicogarrr/nephromind-ai-detection) | Early chronic kidney disease detection with explainable ML. Boehringer Ingelheim Hackathon 2025 submission. | FastAPI · React · Gemini · XGBoost · SHAP |
 | 🏠 [**scrapyrealestate**](https://github.com/nicogarrr/scrapyrealestate) | Telegram alerts for new listings on Spanish real-estate portals. | Python · Scrapy · Playwright · Docker |
-| 📄 [**dailypaperai**](https://github.com/nicogarrr/dailypaperai) | One tech paper a day: arXiv feed, AI summaries in Spanish, audio, semantic search and a reading kanban. | Next.js 14 · TypeScript · SQLite |
 
 More in the [repositories tab](https://github.com/nicogarrr?tab=repositories).
 

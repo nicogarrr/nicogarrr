@@ -28,13 +28,11 @@
 
 | Proyecto | Qué hace | Stack |
 | --- | --- | --- |
-| 📈 [**GerarAI**](https://github.com/nicogarrr/GerarAI) · [app en vivo](https://gerarai.vercel.app) | Sistema operativo de research de inversión: motores de valoración deterministas con traza de cálculo, tesis versionadas con auditoría, biblioteca de conocimiento RAG y disciplina estricta de fuentes (oficial / inferido / sin datos). Unas 4.700 pruebas con CI completo. | Python 3.12 · FastAPI · Next.js 16 · Postgres · Redis |
+| 📈 [**GerarAI**](https://github.com/nicogarrr/GerarAI) ([app en vivo](https://gerarai.duckdns.org)) | Sistema operativo de research de inversión: motores de valoración deterministas con traza de cálculo, tesis versionadas con auditoría, biblioteca de conocimiento RAG y disciplina estricta de fuentes (oficial / inferido / sin datos). Más de 9.000 pruebas con CI completo. | Python 3.12 · FastAPI · Next.js 16 · Postgres · Redis |
 | 🧠 [**Asistenta**](https://github.com/nicogarrr/asistenta) | Agente personal de IA siempre activo en Telegram: objetivos de varios días con aprobación humana, memoria persistente, uso del ordenador, voz, OCR, panel web local, control de la tele y del iPhone. Corre en tu propio PC; gratis salvo la clave del modelo. | TypeScript · Node 24 · SQLite |
 | 📍 **Lazarillo** (TFM, repo privado) | Posicionamiento en interiores fusionando ranging UWB con sensado WiFi CSI: zonas por habitación para el hogar (Home Assistant), detección de caídas para mayores y seguimiento deportivo en pista indoor, todo sobre el mismo montaje ESP32. | ESP32 · DW3000 · C++ · Rust · MQTT |
 | 🛰️ [**Localización UWB en interiores (TFG)**](https://github.com/nicogarrr/TFG_UWB_Localization) | Posicionamiento en tiempo real con precisión de centímetros usando anclas y tags ESP32 sobre MQTT, pensado para fútbol sala y espacios sin GPS. | C++ · ESP32 · MQTT |
-| 🏥 [**NephroMind AI**](https://github.com/nicogarrr/nephromind-ai-detection) | Detección temprana de enfermedad renal crónica con ML explicable. Presentado al Boehringer Ingelheim Hackathon 2025. | FastAPI · React · Gemini · XGBoost · SHAP |
 | 🏠 [**scrapyrealestate**](https://github.com/nicogarrr/scrapyrealestate) | Avisos por Telegram de viviendas nuevas en portales inmobiliarios españoles. | Python · Scrapy · Playwright · Docker |
-| 📄 [**dailypaperai**](https://github.com/nicogarrr/dailypaperai) | Un paper tecnológico al día: feed de arXiv, resúmenes con IA en español, audio, búsqueda semántica y kanban de lectura. | Next.js 14 · TypeScript · SQLite |
 
 Más en la [pestaña de repositorios](https://github.com/nicogarrr?tab=repositories).
 
